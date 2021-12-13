@@ -31,6 +31,6 @@ This is a Classroom Based Web App for connecting the students and teachers for t
 
 * ✔️ **See Your Classes Assignments Updates** : <img src="https://user-images.githubusercontent.com/51286676/143735354-f2ae5ae2-9398-4f9c-a916-82d182e75b2a.png" width=75% height=75%> <br /> You can go to your classroom and check the updates assignments. <br /> <img src="https://user-images.githubusercontent.com/51286676/143735403-010cea99-a74c-4931-a551-46b41a86dc16.png"> <br />
 
-* ✔️ **Submit Assignment** : Go to the respective assignment and attach your file. <br /> <img src="https://user-images.githubusercontent.com/51286676/143735431-6da51726-5293-4d93-8ed9-ecac34e5ecd1.png" <br /> Once you have submitted, your score will be updated once the teacher gives you marks. <img src="https://user-images.githubusercontent.com/51286676/143735850-81730d4b-aa86-418b-95b2-5275c9e315e2.png"> <br />
+* ✔️ **Submit Assignment** : Go to the respective assignment and attach your file. <br /> <img src="https://user-images.githubusercontent.com/51286676/143735431-6da51726-5293-4d93-8ed9-ecac34e5ecd1.png"> <br /> Once you have submitted, your score will be updated once the teacher gives you marks. <img src="https://user-images.githubusercontent.com/51286676/143735850-81730d4b-aa86-418b-95b2-5275c9e315e2.png"> <br />
 
 ## THANK YOU
